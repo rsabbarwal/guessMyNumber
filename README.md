@@ -26,6 +26,8 @@ Follow the Instructions: The game will guide you through setting up the range an
 Contribution
 If you'd like to contribute to the Guess My Number project, you're more than welcome to! Feel free to submit pull requests for bug fixes, improvements, or additional features. Make sure to follow the project's coding conventions and documentation guidelines.
 
+Play this game : https://rsabbarwal.github.io/guessMyNumber/ 
+
 # Acknowledgments
 The idea for this game was inspired by Jonas Schmedtmann javaScript course number guessing game.
 Enjoy the game and happy coding! 🎉🎮
